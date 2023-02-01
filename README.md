@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 ### <div align="center">I'm V0idCoder, a Computer Science Student since 2021🚀</div>  
   
+- 🔭 I’m currently studying in Switzerland 🇨🇭  
 
 - 🌱 I’m currently learning Flutter  
   
