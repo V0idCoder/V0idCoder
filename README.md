@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
+
+### <div align="center">I'm V0idCoder, a Computer Science Student since 2021🚀</div>  
+  
+
+- 🌱 I’m currently learning Flutter  
+  
+
+<br/>  
+
 
 <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0idcoder&theme=dark&show_icons=true)">
 
