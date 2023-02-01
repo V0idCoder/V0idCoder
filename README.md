@@ -1,4 +1,6 @@
+<!--
 ### Hello World, I'm V0idCoder 👋
+-->
 
 <!--
 **V0idCoder/V0idCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
 
 ### <div align="center">I'm V0idCoder, a Computer Science Student since 2021🚀</div>  
   
