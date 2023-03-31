@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 ## Github Stats  
 <div valign="top" width="50%">>
 
-<img src="https://github-readme-stats.vercel.app/api?username=v0idcoder&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=v0idcoder&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" />
 </div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idcoder&hide_border=true&layout=compact" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idcoder&hide_border=true&layout=compact" align="center" style="width: 50%" />
 <br/>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=V0idCoder&theme=shades-of-purple" align="center" /></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=V0idCoder&theme=shades-of-purple" align="center" style="width: 50%"/></div>
  
 
 <br/>
