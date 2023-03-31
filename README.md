@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 
 ## GitHub Trophies
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=V0idCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></div>
+<br/>
 
 ## Connect with me
 <div align="center">
