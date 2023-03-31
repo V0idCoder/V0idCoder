@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=V0idCoder&theme=dark" align="center" style="width: 50%"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=V0idCoder&theme=dark&hide_border=true" align="center" style="width: 50%"/></div>
 
 <br/>
 
