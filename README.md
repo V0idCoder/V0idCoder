@@ -39,6 +39,9 @@ Here are some ideas to get you started:
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+(https://github-readme-stats.vercel.app/api?username=V0idCoder&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+(https://github-readme-streak-stats.herokuapp.com/?user=V0idCoder&theme=dark&hide_border=true)<br/>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=V0idCoder&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div>
 </td></tr></table>  
 
