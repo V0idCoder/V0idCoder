@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br/>  
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=v0idcoder&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
