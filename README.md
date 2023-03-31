@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idcoder&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idcoder&theme=dark&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>
 
 <br/>
 
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=V0idCoder&theme=shades-of-purple" align="center" style="width: 50%"/></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=V0idCoder&theme=dark" align="center" style="width: 50%"/></div>
 
 <br/>
 
