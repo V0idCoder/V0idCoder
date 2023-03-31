@@ -46,27 +46,18 @@ Here are some ideas to get you started:
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=v0idcoder&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 50%" /></div>
-
 <br/>
-
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=V0idCoder&theme=dark&hide_border=true" align="center" style="width: 50%"/></div>
-
 <br/>
-
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0idcoder&theme=dark&hide_border=true&layout=compact" align="center" style="width: 50%" /></div>
-
 <br/>
 
 ## GitHub Trophies
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=V0idCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4" /></div>
-
-
 
 ## Connect with me
 <div align="center">
 <a href="https://twitter.com/V0idCoder" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-<a href="https://visitcount.itsvg.in/api?id=V0idCoder&icon=0&color=12)](https://visitcount.itsvg.in"></a>
-</div>  
-<br/> 
+</div>
