@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 <div align="center">  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
