@@ -67,5 +67,6 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/V0idCoder" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
+<a href="https://visitcount.itsvg.in/api?id=V0idCoder&icon=0&color=12)](https://visitcount.itsvg.in"></a>
 </div>  
 <br/> 
